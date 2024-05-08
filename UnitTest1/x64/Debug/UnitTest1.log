@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+D:\Visual Studio проекти\LAB_12.11\UnitTest1\UnitTest1.cpp(28,36): error C2039: 'getRoot': is not a member of 'BinarySearchTree'
+  (compiling source file '/UnitTest1.cpp')
+  D:\Visual Studio проекти\LAB_12.11\LAB_12.11\LAB_12.11.cpp(18,7):
+  see declaration of 'BinarySearchTree'
+  
+D:\Visual Studio проекти\LAB_12.11\UnitTest1\UnitTest1.cpp(50,37): error C2039: 'getRoot': is not a member of 'BinarySearchTree'
+  (compiling source file '/UnitTest1.cpp')
+  D:\Visual Studio проекти\LAB_12.11\LAB_12.11\LAB_12.11.cpp(18,7):
+  see declaration of 'BinarySearchTree'
+  
